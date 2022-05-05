@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Felipe Mello
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#, JavaScript and TypeScript
 - 📫 How to reach me felipesilva.mello@hotmail.com
 

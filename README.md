@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Mello
-- 🌱 I’m currently learning C# and JavaScript
+- 🌱 I’m currently learning C# and Java
 
 <!---
 iyeskett/iyeskett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

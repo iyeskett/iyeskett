@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Felipe Mello
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning .NET, 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          C# and Java
 
 
 

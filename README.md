@@ -1,17 +1,23 @@
-#Hi, I’m Felipe Mello
+# Hi, I’m Felipe Mello
 <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="100" height="100" />
 
 
- ##I’m currently learning:
+ ## I’m currently learning:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="20" height="20"/> .NET
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" /> C#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="20" height="20" /> Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40" />
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyeskett)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+### Contatos:
+
+
+<a href = "mailto:felipesilva.mello@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipe-mello-635767198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <!---
 iyeskett/iyeskett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

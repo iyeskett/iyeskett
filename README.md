@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Felipe Mello
-- 🌱 I’m currently learning .NET, 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          C# and Java
+- 🌱 I’m currently learning:
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="20" height="20"/> .NET
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" /> C#
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="20" height="20" /> Java
 
 
 

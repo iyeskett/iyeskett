@@ -21,7 +21,7 @@
 </div>
 
 
-
+![Snake animation](https://github.com/iyeskett/iyeskett/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 iyeskett/iyeskett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

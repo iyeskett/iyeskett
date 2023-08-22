@@ -1,6 +1,6 @@
 # Felipe Mello
-Profissional na área de tecnologia a mais de 2 anos e sempre buscando aprender cada vez mais. Atuo na área de sustentação, prestando suporte ao cliente e atendimentos de chamados.
-Conhecimentos em:
+Profissional na área de tecnologia a mais de 2 anos e sempre buscando aprender cada vez mais. Atuo na área de sustentação, prestando suporte ao cliente e atendimentos de chamados.  
+Conhecimentos em:  
 JavaScript / .Net / C# / Asp.net / Programação Orientada a Objetos / Bancos Relacionais e não relacionais.
 
 ### Conecte-se comigo

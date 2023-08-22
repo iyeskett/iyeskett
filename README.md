@@ -1,28 +1,21 @@
-# Hi, I’m Felipe Mello
-<!-- <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="100" height="100" /> --->
+# Felipe Mello
+Profissional na área de tecnologia a mais de 2 anos e sempre buscando aprender cada vez mais. Atuo na área de sustentação, prestando suporte ao cliente e atendimentos de chamados.
+Conhecimentos em:
+JavaScript / .Net / C# / Asp.net / Programação Orientada a Objetos / Bancos Relacionais e não relacionais.
+
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/iyeskett)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:felipesilva.mello@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/f-mello/)
 
 
- ## I’m currently learning:
+### Habilidades
+![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=E94D5F) ![.NET](https://img.shields.io/badge/.net-000?style=for-the-badge&logo=.net&logoColor=30A3DC) ![ASP.NET](https://img.shields.io/badge/asp.net-000?style=for-the-badge&logo=.net&logoColor=E94D5F) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) ![JAVA](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=30A3DC) ![.NET](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40"  height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"  height="40"/>
-          
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyeskett&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iyeskett&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyeskett)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### Contatos:
-
-
-<a href = "mailto:felipesilva.mello27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-mello-635767198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-![Snake animation](https://github.com/iyeskett/iyeskett/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-iyeskett/iyeskett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Meus Projetos
+[![ToDoListAPI](https://github-readme-stats.vercel.app/api/pin/?username=iyeskett&repo=ToDoListAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![projeto-app-delivery-asp.net](https://github-readme-stats.vercel.app/api/pin/?username=iyeskett&repo=projeto-app-delivery-asp.net&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)

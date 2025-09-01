@@ -1,6 +1,9 @@
 # Felipe Mello
-Profissional na área de tecnologia a mais de 2 anos e sempre buscando aprender cada vez mais. Atuo na área de sustentação, prestando suporte ao cliente e atendimentos de chamados.  
-Conhecimentos em:  
+Desenvolvedor Backend com 4 anos de experiência em projetos baseados em .NET/C#, 
+focado em automação de processos, criação de APIs, manutenção de sistemas e resolução de 
+incidentes. Habilidade em ambientes Windows e Linux, com forte conhecimento em bancos 
+de dados relacionais e versionamento de código com Git. Comunicativo, analítico e focado 
+em eficiência. Conhecimentos em:  
 JavaScript / .Net / C# / Asp.net / Programação Orientada a Objetos / Bancos Relacionais e não relacionais.
 
 ### Conecte-se comigo
